@@ -1,4 +1,4 @@
-# competitve-programming-leet-twoSum-solution
+# competitve-programming-leet-two Sum-solution
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
